@@ -17,10 +17,10 @@ Here's a step-by-step guide explaining the process end-to-end
 3. Click on `All tools`
 4. Click on  `Measure & report > Events Manager > Pixels`
 
-![](.gitbook/assets/screenshot-2019-06-25-at-10.08.42%20%281%29.png)
+> ![](.gitbook/assets/screenshot-2019-06-25-at-10.08.42%20%281%29.png)
 
-1. Click on `+ Add New Data Source`
-2. Click on `Facebook pixel`
+5. Click on `+ Add New Data Source`
+6. Click on `Facebook pixel`
 
 ![](.gitbook/assets/screenshot-2019-06-25-at-10.12.09%20%281%29.png)
 
