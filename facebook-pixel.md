@@ -19,6 +19,8 @@ Here's a step-by-step guide explaining the process end-to-end
 
 ![](.gitbook/assets/screenshot-2019-06-25-at-10.08.42%20%281%29.png)
 
+---
+
 5. Click on `+ Add New Data Source`
 6. Click on `Facebook pixel`
 
