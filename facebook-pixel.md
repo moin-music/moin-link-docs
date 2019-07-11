@@ -61,7 +61,7 @@ The Facebook Pixel can only be served to visitors who have given their explicit 
 
 #### 1.4.1 Default
 
-![](.gitbook/assets/screenshot-2019-06-25-at-11.01.20.png)
+![](.gitbook/assets/screenshot-2019-07-11-at-13.10.22.png)
 
 Once the visitor hits accept, the Facebook Pixel is served and this user can be part of a Custom Audience. The visitor can decide to ignore the consent or to disallow the usage of the Facebook Pixel. In this case your Pixel Code won't be served to the visitor.
 
