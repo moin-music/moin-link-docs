@@ -21,7 +21,7 @@ Here's a step-by-step guide explaining the setup process end-to-end
 3. Click on `All tools`
 4. Click on  `Manage business > Events Manager`
 
-![](.gitbook/assets/screenshot-2019-07-15-at-15.13.21.png)
+![](.gitbook/assets/screenshot-2019-07-15-at-15.13.21-2.png)
 
 1. Click on `+ Add New Data Source`
 2. Click on `Facebook pixel`
