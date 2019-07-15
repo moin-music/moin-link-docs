@@ -19,9 +19,9 @@ Here's a step-by-step guide explaining the setup process end-to-end
 1. Log into the [Facebook Business Manager](https://business.facebook.com)
 2. Click on the `≡ Business Manager` button
 3. Click on `All tools`
-4. Click on  `Measure & report > Events Manager > Pixels`
+4. Click on  `Manage business > Events Manager`
 
-![](.gitbook/assets/screenshot-2019-06-25-at-10.08.42%20%281%29.png)
+![](.gitbook/assets/screenshot-2019-07-15-at-15.13.21.png)
 
 1. Click on `+ Add New Data Source`
 2. Click on `Facebook pixel`
@@ -73,9 +73,9 @@ Alternatively you can force the visitor to make a decision, hopefully by hitting
 
 ## 2. Retargeting \(aka Remarketing\)
 
-The pixel triggers different events for different visitor actions. You can create audiences based on those events. To create an audience go to the [Facebook Business Manager](https://business.facebook.com) and navigate to `Menu > All tools > Assets > Audiences`:
+The pixel triggers different events for different visitor actions. You can create audiences based on those events. To create an audience go to the [Facebook Business Manager](https://business.facebook.com) and navigate to `Menu > All tools > Advertise > Audiences`:
 
-![](.gitbook/assets/screenshot-2019-06-25-at-11.08.13.png)
+![](.gitbook/assets/screenshot-2019-07-15-at-15.13.21%20%281%29.png)
 
 1. Click on `Create Audience`
 2. Click on `Custom Audience`
@@ -144,7 +144,7 @@ The parameter label contains the actual link target, possible values are:
 
 and many more! Here's a way how you can figure out the right parameters yourself:
 
-In the [Facebook Business Manager](https://business.facebook.com) select your pixel on the `Measure & report > Events Manager > Pixels` page:
+In the [Facebook Business Manager](https://business.facebook.com) select your pixel on the `Manage business > Events Manager` page:
 
 ![](.gitbook/assets/screenshot-2019-06-25-at-11.36.28.png)
 
